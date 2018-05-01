@@ -1,4 +1,4 @@
-# The New Snake Game
+# SQMA Game Prototype
 
 ## Verplank Diagram  
 
@@ -41,5 +41,3 @@ You love the game, and you wish you could play it with your friend (in a new way
 2. Button: select from menu (new game, exit, etc.)  
 3. Laptop: uses the mouse to select the positions of targets   
 
-
-https://goo.gl/yWCmYw
